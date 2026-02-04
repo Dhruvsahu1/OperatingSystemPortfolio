@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "title": "DevConnect",
+    "description": "A social networking platform for developers to share projects, connect, and collaborate in real time.",
+    "tags": ["React", "Node.js", "MongoDB", "WebSocket"],
+    "repolink": "https://github.com/yourusername/devconnect",
+    "demolink": "https://devconnect-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "title": "TaskFlow",
+    "description": "A productivity-focused task management app with drag-and-drop support and team collaboration features.",
+    "tags": ["Vue", "Firebase", "TailwindCSS"],
+    "repolink": "https://github.com/yourusername/taskflow",
+    "demolink": "https://taskflow-demo.netlify.app"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "Portfolio Builder",
+    "description": "A dynamic portfolio builder that allows developers to create and deploy personal websites with ease.",
+    "tags": ["Next.js", "TypeScript", "Vercel"],
+    "repolink": "https://github.com/yourusername/portfolio-builder",
+    "demolink": "https://portfolio-builder.vercel.app"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd",
+    "title": "API Monitor",
+    "description": "A real-time API monitoring dashboard that tracks uptime, response times, and error rates.",
+    "tags": ["Express", "PostgreSQL", "Chart.js"],
+    "repolink": "https://github.com/yourusername/api-monitor",
+    "demolink": null
+  }
+]
