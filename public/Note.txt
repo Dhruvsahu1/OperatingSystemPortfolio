@@ -1,0 +1,142 @@
+/**
+ * @file: DhruvSahu.profile.ts
+ * @summary: Full-Stack MERN Engineer | Real-time Systems Builder | UI Craftsman
+ */
+
+// =========================================================
+// 1. CORE TECH DNA
+// =========================================================
+
+const DEVELOPER = {
+  NAME: "Dhruv Sahu",
+  ROLE: "Full-Stack JavaScript Developer",
+  SPECIALTY: "Building scalable MERN apps with real-time and interactive features",
+
+  TECH_STACK: {
+    FRONTEND: [
+      "React.js",        // Component architecture, hooks, state mgmt
+      "Next.js",         // App Router, SSR/SSG
+      "Tailwind CSS",    // Rapid, responsive UI design
+      "Redux Toolkit",   // Predictable state management
+      "Konva.js",        // Canvas-based design tools
+    ],
+    BACKEND: [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "PostgreSQL (Basics)",
+      "REST APIs",
+      "JWT Authentication",
+    ],
+    REALTIME: [
+      "Socket.io",       // Multiplayer & live features
+      "WebSockets",
+    ],
+    TOOLS: [
+      "Git & GitHub",
+      "Docker (Basics)",
+      "Linux",
+      "Postman",
+      "VS Code",
+    ]
+  }
+};
+class EngineeringJourney {
+
+  // KAAMMITRA — Blue-Collar Job Platform
+  public async KaamMitra(): Promise<ProjectImpact> {
+    const role = "Full-Stack MERN Developer";
+    const problemSolved = "Bridging gap between local workers and customers";
+    const architecture = "MERN + JWT Auth + Role-Based Access";
+
+    const backend = await api.design({
+      modules: ["User Auth", "Job Listings", "Worker Profiles", "Search & Filters"]
+    });
+
+    const frontend = ui.build({
+      stack: ["React", "Tailwind"],
+      focus: "Mobile-first responsive experience"
+    });
+
+    return { role, problemSolved, architecture, backend, frontend };
+  }
+
+  // REAL-TIME MULTIPLAYER CHESS GAME
+  public async RealtimeChess(): Promise<ProjectImpact> {
+    const role = "Backend + Realtime Systems Developer";
+    const engine = "Chess.js for move validation";
+    const realtimeLayer = await socket.connect({ library: "Socket.io" });
+
+    const features = [
+      "Live multiplayer matches",
+      "Turn synchronization",
+      "Move validation on server",
+      "Room-based gameplay"
+    ];
+
+    return { role, engine, realtimeLayer, features };
+  }
+
+  // INVITATION & GREETING CARD DESIGNER
+  public async CardDesigner(): Promise<ProjectImpact> {
+    const role = "Frontend-Heavy Full-Stack Developer";
+    const canvasEngine = "Konva.js";
+
+    const features = [
+      "Drag-drop elements",
+      "Text customization",
+      "Live preview",
+      "Downloadable designs"
+    ];
+
+    const challengeSolved = "Design-tool experience in the browser";
+
+    return { role, canvasEngine, features, challengeSolved };
+  }
+
+  // HR DASHBOARD (Next.js)
+  public async HRDashboard(): Promise<ProjectImpact> {
+    const role = "Frontend + System Design Contributor";
+    const stack = ["Next.js App Router", "Tailwind", "Charts", "Auth"];
+    const modules = ["Employee analytics", "Dashboard visualizations", "Modular UI"];
+
+    return { role, stack, modules };
+  }
+
+  // REAL-TIME WEATHER DASHBOARD
+  public WeatherSystem(): ProjectImpact {
+    const role = "Full-Stack Developer";
+    const architecture = "React Frontend + Node/Express Backend";
+
+    const features = [
+      "City-based weather search",
+      "Backend API proxy",
+      "Dynamic UI updates"
+    ];
+
+    return { role, architecture, features };
+  }
+}
+const SOFT_SKILLS = {
+  problemSolver: true,
+  fastLearner: true,
+  systemThinker: true,
+  uiFocused: true,
+  teamPlayer: true,
+};
+
+function workStyle() {
+  return [
+    "Prefers clean folder structures",
+    "Believes in reusable components",
+    "Designs APIs before coding",
+    "Balances performance with UX",
+    "Comfortable moving from UI → DB layer"
+  ];
+}
+const NEXT_LEVEL = [
+  "Advanced System Design",
+  "Microservices Architecture",
+  "Cloud Deployment (AWS)",
+  "Scalable Realtime Architectures",
+];
