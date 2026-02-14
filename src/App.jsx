@@ -6,6 +6,7 @@ import Github from './windows/Github';
 import Note from './windows/Note';
 import Resume from './windows/Resume';
 import Spotify from './windows/Spotify';
+import CLI from './windows/CLI';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Resume/>
       <Doc/>
       <Spotify/>
+      <CLI/>
 
     </main>
   )
